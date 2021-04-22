@@ -1,0 +1,16 @@
+.city {
+	padding: 30px 0;
+	border-bottom: 1px solid #000;
+
+	&:last-child {
+		border-bottom: none;
+	}
+
+	&_title {
+		font-weight: 700;
+	}
+
+	div {
+		margin-bottom: 5px;
+	}
+}
